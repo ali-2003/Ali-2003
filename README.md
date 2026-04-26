@@ -12,7 +12,7 @@ Third-year **Computer Science student at the University of Illinois Chicago (UIC
 
 ## What I'm Working On
 
-- **Right now:** Looking for a **Summer 2027 software engineering internship** in payments infrastructure, full-stack platforms, or developer tooling.
+- **Right now:** Looking for a **Summer 2026 software engineering internship** in payments infrastructure, full-stack platforms, or developer tooling.
 - **Long term:** Growing into a backend or platform engineer who owns real distributed systems.
 - **Currently learning:** x86-64 and OS internals through CS 261, plus Rust and Go on the side.
 
